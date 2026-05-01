@@ -92,10 +92,6 @@ rows hold the state machine for each attendee or volunteer. Reactions, comments,
 tag mappings hang off the event post. A matcher-results table holds candidate volunteer
 rankings.
 
-## Reels
-
-Reels carry video metadata, reactions, comments, view counters, and report rows used by
-moderation. The schema is in place but the feature is hidden behind a flag.
 
 ## Messaging
 
